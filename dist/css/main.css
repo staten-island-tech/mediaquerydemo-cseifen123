@@ -163,7 +163,7 @@ body {
 
 @media (min-width: 900px) {
   .header .heading-primary .heading-primary-main {
-    font-size: 10rem;
+    font-size: 8rem;
     letter-spacing: 2.2rem;
   }
 }
